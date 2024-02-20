@@ -15,7 +15,7 @@
 📚 Sempre aprendendo e explorando novas ferramentas e frameworks.
 
 ## Projetos Destacados
-🌐 [Notes](https://github.com/n-mlima/notes): Realiza as requisições básicas de CRUD, criando, alterando e exluindo tarefaso.
+🌐 [Notes](https://github.com/n-mlima/notes): Realiza as requisições básicas de CRUD, criando, alterando e excluindo tarefas.
 
 🤖 [ChatAPP](https://github.com/n-mlima/case-frontend): Este é um aplicativo de chat desenvolvido em ReactJS, permitindo que os usuários criem uma conta, façam login, 
 criem salas de chat e enviem mensagens em tempo real.
